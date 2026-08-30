@@ -1,0 +1,34 @@
+name: daily-phrase-notify
+# 毎朝7:00 JST(=22:00 UTC 前日)に、今日の1フレーズを ntfy.sh へプッシュ通知する。
+# サーバー不要・課金なし(GitHub Actions 無料枠 + ntfy.sh 無料)。
+on:
+  schedule:
+    - cron: '0 22 * * *'
+  workflow_dispatch: {}
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: pick today's phrase and send
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SITE: https://teer-tee.github.io/english-pwa
+        run: |
+          set -e
+          curl -fsSL "$SITE/notify/queue.json" -o q.json
+          # 日本時間の日付から通し番号を決め、100件を順番に回す
+          DAY=$(TZ=Asia/Tokyo date +%j)
+          YEAR=$(TZ=Asia/Tokyo date +%Y)
+          N=$(jq '.count' q.json)
+          IDX=$(( (DAY + YEAR * 366) % N ))
+          JA=$(jq -r ".items[$IDX].ja" q.json)
+          EN=$(jq -r ".items[$IDX].en" q.json)
+          OP=$(jq -r ".items[$IDX].opening" q.json)
+          YG=$(jq -r ".items[$IDX].youglish" q.json)
+          curl -fsS \
+            -H "Title: $JA" \
+            -H "Click: $YG" \
+            -H "Actions: view, 実際の声を聞く, $YG, clear=true; view, アプリで見る, $SITE/#today" \
+            -H "Tags: speech_balloon" \
+            -d "$EN  (冒頭は $OP)" \
+            "https://ntfy.sh/$NTFY_TOPIC"

@@ -1,0 +1,705 @@
+{
+ "count": 100,
+ "items": [
+  {
+   "id": "C001",
+   "ja": "買い物に行きたい",
+   "en": "I want to go shopping.",
+   "opening": "I wanna",
+   "youglish": "https://youglish.com/pronounce/I%20want%20to%20go%20shopping/english"
+  },
+  {
+   "id": "C002",
+   "ja": "何か食べたい",
+   "en": "I want to get something to eat.",
+   "opening": "I wanna",
+   "youglish": "https://youglish.com/pronounce/I%20want%20to%20get%20something%20to%20eat/english"
+  },
+  {
+   "id": "C003",
+   "ja": "ちょっと休みたい",
+   "en": "I want to take a break.",
+   "opening": "I wanna",
+   "youglish": "https://youglish.com/pronounce/I%20want%20to%20take%20a%20break/english"
+  },
+  {
+   "id": "C004",
+   "ja": "英語がもっとうまくなりたい",
+   "en": "I want to get better at English.",
+   "opening": "I wanna",
+   "youglish": "https://youglish.com/pronounce/I%20want%20to%20get%20better%20at%20English/english"
+  },
+  {
+   "id": "C005",
+   "ja": "今日は外食したい気分",
+   "en": "I feel like eating out today.",
+   "opening": "I feel like",
+   "youglish": "https://youglish.com/pronounce/I%20feel%20like%20eating%20out%20today/english"
+  },
+  {
+   "id": "C006",
+   "ja": "今日は家にいたい気分",
+   "en": "I feel like staying home today.",
+   "opening": "I feel like",
+   "youglish": "https://youglish.com/pronounce/I%20feel%20like%20staying%20home%20today/english"
+  },
+  {
+   "id": "C007",
+   "ja": "今日は出かけたくない",
+   "en": "I don't want to go out today.",
+   "opening": "I don't wanna",
+   "youglish": "https://youglish.com/pronounce/I%20don%27t%20want%20to%20go%20out%20today/english"
+  },
+  {
+   "id": "C008",
+   "ja": "今日は早く寝たい",
+   "en": "I want to go to bed early tonight.",
+   "opening": "I wanna",
+   "youglish": "https://youglish.com/pronounce/I%20want%20to%20go%20to%20bed%20early%20tonight/english"
+  },
+  {
+   "id": "C009",
+   "ja": "うまくいくといいな",
+   "en": "I hope it works out.",
+   "opening": "I hope",
+   "youglish": "https://youglish.com/pronounce/I%20hope%20it%20works%20out/english"
+  },
+  {
+   "id": "C010",
+   "ja": "また近いうちに会いたい",
+   "en": "I want to see you again soon.",
+   "opening": "I wanna",
+   "youglish": "https://youglish.com/pronounce/I%20want%20to%20see%20you%20again%20soon/english"
+  },
+  {
+   "id": "C011",
+   "ja": "あとで電話するつもり",
+   "en": "I'm going to call you later.",
+   "opening": "I'm gonna",
+   "youglish": "https://youglish.com/pronounce/I%27m%20going%20to%20call%20you%20later/english"
+  },
+  {
+   "id": "C012",
+   "ja": "明日は在宅で働く",
+   "en": "I'm going to work from home tomorrow.",
+   "opening": "I'm gonna",
+   "youglish": "https://youglish.com/pronounce/I%27m%20going%20to%20work%20from%20home%20tomorrow/english"
+  },
+  {
+   "id": "C013",
+   "ja": "明日の朝早く起きる予定",
+   "en": "I'm going to get up early tomorrow.",
+   "opening": "I'm gonna",
+   "youglish": "https://youglish.com/pronounce/I%27m%20going%20to%20get%20up%20early%20tomorrow/english"
+  },
+  {
+   "id": "C014",
+   "ja": "私が後で確認するよ",
+   "en": "I'll check it later.",
+   "opening": "I'll",
+   "youglish": "https://youglish.com/pronounce/I%27ll%20check%20it%20later/english"
+  },
+  {
+   "id": "C015",
+   "ja": "着いたら知らせるよ",
+   "en": "I'll let you know when I get there.",
+   "opening": "I'll",
+   "youglish": "https://youglish.com/pronounce/I%27ll%20let%20you%20know%20when%20I%20get%20there/english"
+  },
+  {
+   "id": "C016",
+   "ja": "前は東京に住んでた",
+   "en": "I used to live in Tokyo.",
+   "opening": "I used to",
+   "youglish": "https://youglish.com/pronounce/I%20used%20to%20live%20in%20Tokyo/english"
+  },
+  {
+   "id": "C017",
+   "ja": "英語を勉強しているところ",
+   "en": "I'm trying to learn English.",
+   "opening": "I'm tryin' to",
+   "youglish": "https://youglish.com/pronounce/I%27m%20trying%20to%20learn%20English/english"
+  },
+  {
+   "id": "C018",
+   "ja": "ちょうど仕事が終わった",
+   "en": "I just finished work.",
+   "opening": "I just",
+   "youglish": "https://youglish.com/pronounce/I%20just%20finished%20work/english"
+  },
+  {
+   "id": "C019",
+   "ja": "今向かっているところ",
+   "en": "I'm on my way now.",
+   "opening": "I'm tryin' to",
+   "youglish": "https://youglish.com/pronounce/I%27m%20on%20my%20way%20now/english"
+  },
+  {
+   "id": "C020",
+   "ja": "少し遅れそう",
+   "en": "I'm going to be a little late.",
+   "opening": "I'm gonna",
+   "youglish": "https://youglish.com/pronounce/I%27m%20going%20to%20be%20a%20little%20late/english"
+  },
+  {
+   "id": "C021",
+   "ja": "もう行かなきゃ",
+   "en": "I have to get going.",
+   "opening": "I hafta",
+   "youglish": "https://youglish.com/pronounce/I%20have%20to%20get%20going/english"
+  },
+  {
+   "id": "C022",
+   "ja": "これを今日終わらせる必要がある",
+   "en": "I need to finish this today.",
+   "opening": "I needa",
+   "youglish": "https://youglish.com/pronounce/I%20need%20to%20finish%20this%20today/english"
+  },
+  {
+   "id": "C023",
+   "ja": "もっと練習しないといけない",
+   "en": "I need to practice more.",
+   "opening": "I needa",
+   "youglish": "https://youglish.com/pronounce/I%20need%20to%20practice%20more/english"
+  },
+  {
+   "id": "C024",
+   "ja": "明日は仕事",
+   "en": "I have to work tomorrow.",
+   "opening": "I hafta",
+   "youglish": "https://youglish.com/pronounce/I%20have%20to%20work%20tomorrow/english"
+  },
+  {
+   "id": "C025",
+   "ja": "急がなきゃ",
+   "en": "I've got to hurry.",
+   "opening": "I gotta",
+   "youglish": "https://youglish.com/pronounce/I%27ve%20got%20to%20hurry/english"
+  },
+  {
+   "id": "C026",
+   "ja": "そろそろ行かないと",
+   "en": "I should probably go.",
+   "opening": "I should",
+   "youglish": "https://youglish.com/pronounce/I%20should%20probably%20go/english"
+  },
+  {
+   "id": "C027",
+   "ja": "今日は休んだ方がいい",
+   "en": "I should take the day off.",
+   "opening": "I should",
+   "youglish": "https://youglish.com/pronounce/I%20should%20take%20the%20day%20off/english"
+  },
+  {
+   "id": "C028",
+   "ja": "それなら自分でできる",
+   "en": "I can do that myself.",
+   "opening": "I can",
+   "youglish": "https://youglish.com/pronounce/I%20can%20do%20that%20myself/english"
+  },
+  {
+   "id": "C029",
+   "ja": "今は決められない",
+   "en": "I can't decide right now.",
+   "opening": "I can",
+   "youglish": "https://youglish.com/pronounce/I%20can%27t%20decide%20right%20now/english"
+  },
+  {
+   "id": "C030",
+   "ja": "試してみたら",
+   "en": "You should try it.",
+   "opening": "I should",
+   "youglish": "https://youglish.com/pronounce/You%20should%20try%20it/english"
+  },
+  {
+   "id": "C031",
+   "ja": "もう一度言ってくれる？",
+   "en": "Can you say that again?",
+   "opening": "Can ya",
+   "youglish": "https://youglish.com/pronounce/Can%20you%20say%20that%20again/english"
+  },
+  {
+   "id": "C032",
+   "ja": "ちょっと手伝ってくれる？",
+   "en": "Can you give me a hand?",
+   "opening": "Can ya",
+   "youglish": "https://youglish.com/pronounce/Can%20you%20give%20me%20a%20hand/english"
+  },
+  {
+   "id": "C033",
+   "ja": "もう少しゆっくり話してもらえますか",
+   "en": "Could you speak a little slower?",
+   "opening": "Couldja",
+   "youglish": "https://youglish.com/pronounce/Could%20you%20speak%20a%20little%20slower/english"
+  },
+  {
+   "id": "C034",
+   "ja": "それを説明してもらえますか",
+   "en": "Could you explain that?",
+   "opening": "Couldja",
+   "youglish": "https://youglish.com/pronounce/Could%20you%20explain%20that/english"
+  },
+  {
+   "id": "C035",
+   "ja": "少し待ってもらえる?",
+   "en": "Would you mind waiting a minute?",
+   "opening": "Wouldja",
+   "youglish": "https://youglish.com/pronounce/Would%20you%20mind%20waiting%20a%20minute/english"
+  },
+  {
+   "id": "C036",
+   "ja": "書いてもらえる?",
+   "en": "Could you write it down?",
+   "opening": "Couldja",
+   "youglish": "https://youglish.com/pronounce/Could%20you%20write%20it%20down/english"
+  },
+  {
+   "id": "C037",
+   "ja": "少し待ってくれる？",
+   "en": "Can you wait a second?",
+   "opening": "Can ya",
+   "youglish": "https://youglish.com/pronounce/Can%20you%20wait%20a%20second/english"
+  },
+  {
+   "id": "C038",
+   "ja": "空いているか丁寧に聞きたい",
+   "en": "I was wondering if you're free tomorrow.",
+   "opening": "I was wondering if",
+   "youglish": "https://youglish.com/pronounce/I%20was%20wondering%20if%20you%27re%20free%20tomorrow/english"
+  },
+  {
+   "id": "C039",
+   "ja": "窓を開けてもいいですか",
+   "en": "Do you mind if I open the window?",
+   "opening": "D'you mind if I",
+   "youglish": "https://youglish.com/pronounce/Do%20you%20mind%20if%20I%20open%20the%20window/english"
+  },
+  {
+   "id": "C040",
+   "ja": "ここに座ってもいいですか",
+   "en": "Do you mind if I sit here?",
+   "opening": "D'you mind if I",
+   "youglish": "https://youglish.com/pronounce/Do%20you%20mind%20if%20I%20sit%20here/english"
+  },
+  {
+   "id": "C041",
+   "ja": "質問してもいい？",
+   "en": "Can I ask you something?",
+   "opening": "C'n I",
+   "youglish": "https://youglish.com/pronounce/Can%20I%20ask%20you%20something/english"
+  },
+  {
+   "id": "C042",
+   "ja": "これを借りてもいい？",
+   "en": "Can I borrow this?",
+   "opening": "C'n I",
+   "youglish": "https://youglish.com/pronounce/Can%20I%20borrow%20this/english"
+  },
+  {
+   "id": "C043",
+   "ja": "私が確認するよ",
+   "en": "Let me check.",
+   "opening": "Lemme",
+   "youglish": "https://youglish.com/pronounce/Let%20me%20check/english"
+  },
+  {
+   "id": "C044",
+   "ja": "私がやってみるよ",
+   "en": "Let me give it a try.",
+   "opening": "Lemme",
+   "youglish": "https://youglish.com/pronounce/Let%20me%20give%20it%20a%20try/english"
+  },
+  {
+   "id": "C045",
+   "ja": "手伝おうか？",
+   "en": "Do you want me to help you?",
+   "opening": "D'ya want me to",
+   "youglish": "https://youglish.com/pronounce/Do%20you%20want%20me%20to%20help%20you/english"
+  },
+  {
+   "id": "C046",
+   "ja": "私が電話しようか？",
+   "en": "Do you want me to call them?",
+   "opening": "D'ya want me to",
+   "youglish": "https://youglish.com/pronounce/Do%20you%20want%20me%20to%20call%20them/english"
+  },
+  {
+   "id": "C047",
+   "ja": "コーヒー取ってこようか？",
+   "en": "Do you want me to get you some coffee?",
+   "opening": "D'ya want me to",
+   "youglish": "https://youglish.com/pronounce/Do%20you%20want%20me%20to%20get%20you%20some%20coffee/english"
+  },
+  {
+   "id": "C048",
+   "ja": "先にどうぞ",
+   "en": "Go ahead. You go first.",
+   "opening": "動詞と小辞を一息で",
+   "youglish": "https://youglish.com/pronounce/Go%20ahead.%20You%20go%20first/english"
+  },
+  {
+   "id": "C049",
+   "ja": "何か必要なら知らせて",
+   "en": "Let me know if you need anything.",
+   "opening": "Lemme",
+   "youglish": "https://youglish.com/pronounce/Let%20me%20know%20if%20you%20need%20anything/english"
+  },
+  {
+   "id": "C050",
+   "ja": "私に任せて",
+   "en": "Let me handle it.",
+   "opening": "Lemme",
+   "youglish": "https://youglish.com/pronounce/Let%20me%20handle%20it/english"
+  },
+  {
+   "id": "C051",
+   "ja": "お昼食べに行く？",
+   "en": "Do you want to grab lunch?",
+   "opening": "D'ya wanna",
+   "youglish": "https://youglish.com/pronounce/Do%20you%20want%20to%20grab%20lunch/english"
+  },
+  {
+   "id": "C052",
+   "ja": "あとで話す？",
+   "en": "Do you want to talk later?",
+   "opening": "D'ya wanna",
+   "youglish": "https://youglish.com/pronounce/Do%20you%20want%20to%20talk%20later/english"
+  },
+  {
+   "id": "C053",
+   "ja": "始めよう",
+   "en": "Let's get started.",
+   "opening": "Let's",
+   "youglish": "https://youglish.com/pronounce/Let%27s%20get%20started/english"
+  },
+  {
+   "id": "C054",
+   "ja": "ちょっと休憩しよう",
+   "en": "Let's take a quick break.",
+   "opening": "Let's",
+   "youglish": "https://youglish.com/pronounce/Let%27s%20take%20a%20quick%20break/english"
+  },
+  {
+   "id": "C055",
+   "ja": "別の方法を試そう",
+   "en": "Let's try another way.",
+   "opening": "Let's",
+   "youglish": "https://youglish.com/pronounce/Let%27s%20try%20another%20way/english"
+  },
+  {
+   "id": "C056",
+   "ja": "一緒に行かない？",
+   "en": "Why don't we go together?",
+   "opening": "Why don' we",
+   "youglish": "https://youglish.com/pronounce/Why%20don%27t%20we%20go%20together/english"
+  },
+  {
+   "id": "C057",
+   "ja": "金曜日に会わない？",
+   "en": "Why don't we meet on Friday?",
+   "opening": "Why don' we",
+   "youglish": "https://youglish.com/pronounce/Why%20don%27t%20we%20meet%20on%20Friday/english"
+  },
+  {
+   "id": "C058",
+   "ja": "少し休んだら？",
+   "en": "Why don't you take a break?",
+   "opening": "Why dontcha",
+   "youglish": "https://youglish.com/pronounce/Why%20don%27t%20you%20take%20a%20break/english"
+  },
+  {
+   "id": "C059",
+   "ja": "一緒に来たら?",
+   "en": "Why don't you come with us?",
+   "opening": "Why dontcha",
+   "youglish": "https://youglish.com/pronounce/Why%20don%27t%20you%20come%20with%20us/english"
+  },
+  {
+   "id": "C060",
+   "ja": "うまくいかなかったらどうする？",
+   "en": "What if it doesn't work?",
+   "opening": "What if",
+   "youglish": "https://youglish.com/pronounce/What%20if%20it%20doesn%27t%20work/english"
+  },
+  {
+   "id": "C061",
+   "ja": "それはいい考えだと思う",
+   "en": "I think that's a good idea.",
+   "opening": "I think",
+   "youglish": "https://youglish.com/pronounce/I%20think%20that%27s%20a%20good%20idea/english"
+  },
+  {
+   "id": "C062",
+   "ja": "私もそう思う",
+   "en": "I think so too.",
+   "opening": "I think",
+   "youglish": "https://youglish.com/pronounce/I%20think%20so%20too/english"
+  },
+  {
+   "id": "C063",
+   "ja": "それで合っているか自信がない",
+   "en": "I'm not sure that's right.",
+   "opening": "I'm not sure",
+   "youglish": "https://youglish.com/pronounce/I%27m%20not%20sure%20that%27s%20right/english"
+  },
+  {
+   "id": "C064",
+   "ja": "問題は時間がないこと",
+   "en": "The thing is, we don't have time.",
+   "opening": "The thing is,",
+   "youglish": "https://youglish.com/pronounce/The%20thing%20is%2C%20we%20don%27t%20have%20time/english"
+  },
+  {
+   "id": "C065",
+   "ja": "実は考えが変わった",
+   "en": "Actually, I changed my mind.",
+   "opening": "Actually,",
+   "youglish": "https://youglish.com/pronounce/Actually%2C%20I%20changed%20my%20mind/english"
+  },
+  {
+   "id": "C066",
+   "ja": "状況による",
+   "en": "It depends on the situation.",
+   "opening": "It depends on",
+   "youglish": "https://youglish.com/pronounce/It%20depends%20on%20the%20situation/english"
+  },
+  {
+   "id": "C067",
+   "ja": "つまり、まだ準備できていない",
+   "en": "I mean, I'm not ready yet.",
+   "opening": "談話チャンクを一息で",
+   "youglish": "https://youglish.com/pronounce/I%20mean%2C%20I%27m%20not%20ready%20yet/english"
+  },
+  {
+   "id": "C068",
+   "ja": "ちょっと変な感じがする",
+   "en": "It feels kind of weird.",
+   "opening": "談話チャンクを一息で",
+   "youglish": "https://youglish.com/pronounce/It%20feels%20kind%20of%20weird/english"
+  },
+  {
+   "id": "C069",
+   "ja": "結局、間違ってたのは自分だった",
+   "en": "Turns out I was wrong.",
+   "opening": "談話チャンクを一息で",
+   "youglish": "https://youglish.com/pronounce/Turns%20out%20I%20was%20wrong/english"
+  },
+  {
+   "id": "C070",
+   "ja": "やってみる価値はある",
+   "en": "It's worth a try.",
+   "opening": "談話チャンクを一息で",
+   "youglish": "https://youglish.com/pronounce/It%27s%20worth%20a%20try/english"
+  },
+  {
+   "id": "C071",
+   "ja": "どう思う?",
+   "en": "What do you think?",
+   "opening": "Whaddaya think",
+   "youglish": "https://youglish.com/pronounce/What%20do%20you%20think/english"
+  },
+  {
+   "id": "C072",
+   "ja": "これは英語でどう言うの？",
+   "en": "How do I say this in English?",
+   "opening": "How d'I",
+   "youglish": "https://youglish.com/pronounce/How%20do%20I%20say%20this%20in%20English/english"
+  },
+  {
+   "id": "C073",
+   "ja": "どういう意味？",
+   "en": "What do you mean by that?",
+   "opening": "Whaddaya mean?",
+   "youglish": "https://youglish.com/pronounce/What%20do%20you%20mean%20by%20that/english"
+  },
+  {
+   "id": "C074",
+   "ja": "今電話した方がいい？",
+   "en": "Should I call now?",
+   "opening": "Should I",
+   "youglish": "https://youglish.com/pronounce/Should%20I%20call%20now/english"
+  },
+  {
+   "id": "C075",
+   "ja": "何を持っていけばいい？",
+   "en": "What should I bring?",
+   "opening": "Should I",
+   "youglish": "https://youglish.com/pronounce/What%20should%20I%20bring/english"
+  },
+  {
+   "id": "C076",
+   "ja": "どこで会えばいい？",
+   "en": "Where should we meet?",
+   "opening": "疑問語を先頭に置く",
+   "youglish": "https://youglish.com/pronounce/Where%20should%20we%20meet/english"
+  },
+  {
+   "id": "C077",
+   "ja": "何が起きたの？",
+   "en": "What happened?",
+   "opening": "疑問語を先頭に置く",
+   "youglish": "https://youglish.com/pronounce/What%20happened/english"
+  },
+  {
+   "id": "C078",
+   "ja": "いつ空いてる?",
+   "en": "When are you free?",
+   "opening": "疑問語を先頭に置く",
+   "youglish": "https://youglish.com/pronounce/When%20are%20you%20free/english"
+  },
+  {
+   "id": "C079",
+   "ja": "どうして分かったの?",
+   "en": "How did you know?",
+   "opening": "疑問語を先頭に置く",
+   "youglish": "https://youglish.com/pronounce/How%20did%20you%20know/english"
+  },
+  {
+   "id": "C080",
+   "ja": "もう一度確認していい？",
+   "en": "Can I double-check?",
+   "opening": "C'n I",
+   "youglish": "https://youglish.com/pronounce/Can%20I%20double-check/english"
+  },
+  {
+   "id": "C081",
+   "ja": "何が起きたか調べる",
+   "en": "Let's find out what happened.",
+   "opening": "動詞と小辞を一息で",
+   "youglish": "https://youglish.com/pronounce/Let%27s%20find%20out%20what%20happened/english"
+  },
+  {
+   "id": "C082",
+   "ja": "やっと分かった",
+   "en": "I finally figured it out.",
+   "opening": "動詞と小辞を一息で",
+   "youglish": "https://youglish.com/pronounce/I%20finally%20figured%20it%20out/english"
+  },
+  {
+   "id": "C083",
+   "ja": "帰りに食べ物を買ってくる",
+   "en": "I'll pick up some food on the way home.",
+   "opening": "動詞と小辞を一息で",
+   "youglish": "https://youglish.com/pronounce/I%27ll%20pick%20up%20some%20food%20on%20the%20way%20home/english"
+  },
+  {
+   "id": "C084",
+   "ja": "その問題は私が対処する",
+   "en": "I'll deal with the problem.",
+   "opening": "動詞と小辞を一息で",
+   "youglish": "https://youglish.com/pronounce/I%27ll%20deal%20with%20the%20problem/english"
+  },
+  {
+   "id": "C085",
+   "ja": "何か考えてみる",
+   "en": "I'll come up with something.",
+   "opening": "動詞と小辞を一息で",
+   "youglish": "https://youglish.com/pronounce/I%27ll%20come%20up%20with%20something/english"
+  },
+  {
+   "id": "C086",
+   "ja": "結局家にいた",
+   "en": "I ended up staying home.",
+   "opening": "動詞と小辞を一息で",
+   "youglish": "https://youglish.com/pronounce/I%20ended%20up%20staying%20home/english"
+  },
+  {
+   "id": "C087",
+   "ja": "あとで折り返す",
+   "en": "I'll get back to you later.",
+   "opening": "動詞と小辞を一息で",
+   "youglish": "https://youglish.com/pronounce/I%27ll%20get%20back%20to%20you%20later/english"
+  },
+  {
+   "id": "C088",
+   "ja": "最後はうまくいった",
+   "en": "It worked out in the end.",
+   "opening": "動詞と小辞を一息で",
+   "youglish": "https://youglish.com/pronounce/It%20worked%20out%20in%20the%20end/english"
+  },
+  {
+   "id": "C089",
+   "ja": "鍵を探している",
+   "en": "I'm looking for my keys.",
+   "opening": "動詞と小辞を一息で",
+   "youglish": "https://youglish.com/pronounce/I%27m%20looking%20for%20my%20keys/english"
+  },
+  {
+   "id": "C090",
+   "ja": "転職を考えている",
+   "en": "I'm thinking about changing jobs.",
+   "opening": "動詞と小辞を一息で",
+   "youglish": "https://youglish.com/pronounce/I%27m%20thinking%20about%20changing%20jobs/english"
+  },
+  {
+   "id": "C091",
+   "ja": "ところで、週末はどうだった？",
+   "en": "By the way, how was your weekend?",
+   "opening": "談話チャンクを一息で",
+   "youglish": "https://youglish.com/pronounce/By%20the%20way%2C%20how%20was%20your%20weekend/english"
+  },
+  {
+   "id": "C092",
+   "ja": "もちろん手伝うよ",
+   "en": "Of course, I'll help.",
+   "opening": "談話チャンクを一息で",
+   "youglish": "https://youglish.com/pronounce/Of%20course%2C%20I%27ll%20help/english"
+  },
+  {
+   "id": "C093",
+   "ja": "たぶん少し遅れる",
+   "en": "I'll probably be a little late.",
+   "opening": "談話チャンクを一息で",
+   "youglish": "https://youglish.com/pronounce/I%27ll%20probably%20be%20a%20little%20late/english"
+  },
+  {
+   "id": "C094",
+   "ja": "ただ確認したかっただけ",
+   "en": "I just wanted to check.",
+   "opening": "談話チャンクを一息で",
+   "youglish": "https://youglish.com/pronounce/I%20just%20wanted%20to%20check/english"
+  },
+  {
+   "id": "C095",
+   "ja": "疲れているから家に帰りたい",
+   "en": "I want to go home because I'm tired.",
+   "opening": "'cause",
+   "youglish": "https://youglish.com/pronounce/I%20want%20to%20go%20home%20because%20I%27m%20tired/english"
+  },
+  {
+   "id": "C096",
+   "ja": "電車で遅れた",
+   "en": "I was late because of the train.",
+   "opening": "'cause",
+   "youglish": "https://youglish.com/pronounce/I%20was%20late%20because%20of%20the%20train/english"
+  },
+  {
+   "id": "C097",
+   "ja": "仕事があるから行けない",
+   "en": "I can't go because I have work.",
+   "opening": "'cause",
+   "youglish": "https://youglish.com/pronounce/I%20can%27t%20go%20because%20I%20have%20work/english"
+  },
+  {
+   "id": "C098",
+   "ja": "念のため書いておく",
+   "en": "I'll write it down just in case.",
+   "opening": "談話チャンクを一息で",
+   "youglish": "https://youglish.com/pronounce/I%27ll%20write%20it%20down%20just%20in%20case/english"
+  },
+  {
+   "id": "C099",
+   "ja": "雨でも行く",
+   "en": "I'll go even if it rains.",
+   "opening": "談話チャンクを一息で",
+   "youglish": "https://youglish.com/pronounce/I%27ll%20go%20even%20if%20it%20rains/english"
+  },
+  {
+   "id": "C100",
+   "ja": "遅すぎなければ大丈夫",
+   "en": "That's fine, as long as it's not too late.",
+   "opening": "談話チャンクを一息で",
+   "youglish": "https://youglish.com/pronounce/That%27s%20fine%2C%20as%20long%20as%20it%27s%20not%20too%20late/english"
+  }
+ ]
+}
